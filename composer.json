@@ -1,0 +1,9 @@
+{
+    "name": "mrbrunelli/oo",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Alfa\\": "src/"
+        }
+    }
+}
